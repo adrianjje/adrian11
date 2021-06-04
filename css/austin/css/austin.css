@@ -1,0 +1,29 @@
+h1{
+    background-color:yellow;
+     color:darkblue;
+     text-decoration: underline 2px red;
+}
+
+.home{
+    background-color:gray;
+}
+
+#hello{
+    color: teal;
+}
+
+.one{
+    background-color:red;
+    opacity:0.5; 
+    color: blue;
+
+}
+
+.two{
+    background-color:rgb(0,0,0);
+    
+    color: blue;
+    background-color:rgba(0,0,0.5)
+
+}
+

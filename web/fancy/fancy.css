@@ -1,0 +1,30 @@
+.mbl{
+    color:aqua;
+    background-color:yellowgreen
+}
+
+.loans{
+    background-color:indigo
+}
+
+#title{
+    color: blue
+}
+
+p{
+    color:violet
+}
+
+#myloan{
+    color:white
+}
+
+.location{
+    background-color:yellow
+}
+
+#ll{
+    color:black;
+    text-align:center;
+    text-decoration:underline dashed 2px;
+}
